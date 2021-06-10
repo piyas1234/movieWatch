@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Nav from '../components/Nav'
 import Result from '../components/Result'
 import Request from '../utils/Request'
+import 'tailwindcss/tailwind.css'
 export default function Home(props) {
   console.log(props)
   return (
